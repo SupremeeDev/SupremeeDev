@@ -9,5 +9,5 @@
 <img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" />
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=supremeedev&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supremeedev&theme=dark&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### [![My Stats](https://github-readme-stats.vercel.app/api?username=supremeedev&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supremeedev&theme=dark&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
