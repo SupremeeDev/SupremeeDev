@@ -4,8 +4,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="py" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="html" width="26px" src="https://icon-library.com/images/html-icon-png/html-icon-png-4.jpg" /> 
 <img align="left" alt="css" width="26px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" /> 
-<img align="left" alt="html" width="26px" src="(https://cdn-icons-png.flaticon.com/512/174/174854.png)" /> 
 <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
